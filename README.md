@@ -1,0 +1,1 @@
+# automed.github.md
